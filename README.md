@@ -12,5 +12,8 @@ EJEMPLOS:
 ##### Encabezado de Nivel 5 - Similar a H5 en HTML
 ###### Encabezado de Nivel 6 - Similar a H6 en HTML
 ####### Encabezado de Nivel 7 - Solo 6 niveles son permitidos dentro de la sintaxis, a partir de este el maquetado sera ignorado
+### 2. Separadores (SEPARATORS)
+Si se desea marcar una separacion mas visual de contenidos podemos utilixarlos indicando tres caracteres de "-" continuos en el maquetado
+
 
 
