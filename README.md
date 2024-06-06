@@ -24,7 +24,17 @@ Este texto pretenece al Parrafo 1. Este texto pretenece al Parrafo 1. Este texto
 <p>
 Este texto pretenece al Parrafo 2. Este texto pretenece al Parrafo 2. Este texto pretenece al Parrafo 2. Este texto pretenece al Parrafo 2. Este texto pretenece al Parrafo 2. Este texto pretenece al Parrafo 2. Este texto pretenece al Parrafo 2. Este texto pretenece al Parrafo 2. Este texto pretenece al Parrafo 2. Este texto pretenece al Parrafo 2. Este texto pretenece al Parrafo 2. Este texto pretenece al Parrafo 2. Este texto pretenece al Parrafo 2. Este texto pretenece al Parrafo 2. Este texto pretenece al Parrafo 2.  </p>
 Lo que en una pagina utilizariamos la etiqueta < P >
+tambien podemos aplicar estilos de alineacion:
 
-
-
-
+<p align = left>
+Parrafo de alineacion derecha.Parrafo de alineacion derecha.Parrafo de alineacion derecha.Parrafo de alineacion derecha.Parrafo de alineacion derecha.Parrafo de alineacion derecha.Parrafo de alineacion derecha.Parrafo de alineacion derecha.Parrafo de alineacion derecha.Parrafo de alineacion derecha.Parrafo de alineacion derecha.Parrafo de alineacion derecha.Parrafo de alineacion derecha.Parrafo de alineacion derecha.Parrafo de alineacion derecha.Parrafo de alineacion derecha.Parrafo de alineacion derecha.Parrafo de alineacion derecha.
+</p>
+<p align = center>
+Parrafo de alineacion central. Parrafo de alineacion central.Parrafo de alineacion central.Parrafo de alineacion central.Parrafo de alineacion central.Parrafo de alineacion central.Parrafo de alineacion central.Parrafo de alineacion central.Parrafo de alineacion central.Parrafo de alineacion central.Parrafo de alineacion central.Parrafo de alineacion central.Parrafo de alineacion central.Parrafo de alineacion central.Parrafo de alineacion central.Parrafo de alineacion central.Parrafo de alineacion central.Parrafo de alineacion central.Parrafo de alineacion central.
+</p>
+<p align = right>
+Parrafo de alineacion izquierda. Parrafo de alineacion izquierda. Parrafo de alineacion izquierda. Parrafo de alineacion izquierda. Parrafo de alineacion izquierda. Parrafo de alineacion izquierda. Parrafo de alineacion izquierda. Parrafo de alineacion izquierda. Parrafo de alineacion izquierda. Parrafo de alineacion izquierda. Parrafo de alineacion izquierda. Parrafo de alineacion izquierda. Parrafo de alineacion izquierda. Parrafo de alineacion izquierda. Parrafo de alineacion izquierda. Parrafo de alineacion izquierda. Parrafo de alineacion izquierda. Parrafo de alineacion izquierda. 
+</p>
+<p align = justify>
+Parrafo de alineacion justificada. Parrafo de alineacion justificada. Parrafo de alineacion justificada. Parrafo de alineacion justificada. Parrafo de alineacion justificada. Parrafo de alineacion justificada. Parrafo de alineacion justificada. Parrafo de alineacion justificada. Parrafo de alineacion justificada. Parrafo de alineacion justificada. Parrafo de alineacion justificada. Parrafo de alineacion justificada. Parrafo de alineacion justificada. Parrafo de alineacion justificada. Parrafo de alineacion justificada. Parrafo de alineacion justificada. Parrafo de alineacion justificada. 
+</p>
