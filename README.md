@@ -58,3 +58,68 @@ Para poder poner el texto en negrita y ademas en cursiva este debera ser encerra
 
 EJEMPLO:
 Texto Texto Texto ***Texto*** Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto ***Texto*** Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto
+
+#### Subrayado (UNDERLINE)
+Algunas veces necesitaremos subrayar texto dentro de la documentación, para ello, si bien markdown no tiene un atajo o codificación rápida podemos utilizar el estilo estándar de HTMl usando el tag / y cerrando con /
+
+EJEMPLO:
+Texto Texto Texto Texto Texto Texto Texto Texto <ins>Texto Texto Texto</ins> Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto <ins>Texto Texto Texto</ins> Texto Texto Texto Texto Texto Texto
+
+# Integradora-Practica-03
+Continuamos con los comandos básicos de Git y GitHub para el maquetado de la documentación
+
+### 5. Cuadros para códigos o reseñas (BLOCKQUOTES)
+Estos elementos son utilizados para resaltar instrucciones especificas para la instalación, configuración y/o inicialización o mostrar secciones de código fuente. Se maqueta iniciando el texto con un símbolo de mayor que (/>)
+
+EJEMPLO:
+Para listar las carpetas y archivos desde una terminal de sistemas operativos Windows debemos ingresar el comando: c:dir Después oprimimos la tecla "Enter".
+
+> Aquí se ingresa un conjunto de instrucciones para explicar al usuario, como instalar el software que hemos diseñado.
+
+También podemos ingresar textos multilínea
+
+Y si deseamos incluir viñetas para enlistar pasos podemos utilizar el caracter - dentro del texto a documentar.
+
+EJEMPLO: 
+Pasos para Instalar la Base de Datos
+
+> - Descargar MySQL Server del Sitio Oficial
+> - Instalar el Sistema Gestor de Bases de Datos, definiendo el puerto y contraseña para el usuario root
+> - Descargamos el archivo de respaldo de la base de datos (.sql)
+> - Restauramos la Base de Datos Usando el comando *MySQL *
+> - c:/Program Files/MySQL/MySQL Server 8.0/bin/mysql -u root -p password<respaldo.sql
+
+### 6. Listas Ordenadas y Listas Desordenadas
+Si en nuestra documentación necesitamos incluir información en modo de lista, un elemneto tras otro, podemos hacerlo utilizando los números con un punto decimal si las deseamos ordenadas con un guión medio - si solo queremos una viñeta.
+
+EJEMPLO: 
+Para crear tu primer repositorio en GitHub deberás:
+
+1. Contar con cuneta HitHub.
+2. Dar click en el boton: *Nuevo repositorio
+3.Asignarle un Nombre a tu repositorio, por ejemplo: practica03-3b
+4. Asignarle un nivel de privacidad entre}
+    - Públuico: Si quieres que esté disponible para todos los usuarios.
+    - Privado: Si deseas que solo a quien tu decidas puedan y colaborar con tu proyecto.
+5. Definir si incluye un archivo de descripción llamado : READNE.md
+6. Definir si habrá exclusiones de archivo a través del archivo .gitgnore
+7. Guardar los cambios.
+
+### 7. Ligas(Hipervínvulos)
+Las ligas son utilizadas para vincular elementos o referencias del proyecto dentro del mismo repositorio o fuera de el. Y que se maquetan utilizando los corchetes [], inmediatamente despues pondrémos la liga de referencia entre parentesis ().
+
+EJEMPLO: 
+Mi buscador favorito es: [Google](https://www.google.com/).
+
+Pero si deseamos poner solo las ligas directas o un correo electrónico podemos utilizar los simbolos < >
+
+EJEMPLO: 
+Documentación creada por: _**Osvaldo Abishai Flores Campos**_
+
+<230413@utxicotepec.edu.mx>
+
+### 8. Imágenes
+Puede mostrar una imágen agregando ! y ajustar el texto alternativo en [ ]. El texto alternativo es un texto corto equivalente a la información de la imágen. Luego escribe el vinculo de la imágen entre paréntesis ().
+![Imagen demostrativa](https://i.pinimg.com/736x/ef/71/90/ef719006ad6e536b6883a9e98263f146.jpg)
+
+GitHub admite la inserción de imágenes en incidencias, solicitudes de incorporación de cambios, debates, comentarios y archivos .md. Puedes mostrar una imagen desde tu repositorio, agregar un enlace a una imagen en línea o cargar una imagen. Para obtener más información, consulte "Carga de recursos".
