@@ -120,6 +120,6 @@ Documentación creada por: _**Osvaldo Abishai Flores Campos**_
 
 ### 8. Imágenes
 Puede mostrar una imágen agregando ! y ajustar el texto alternativo en [ ]. El texto alternativo es un texto corto equivalente a la información de la imágen. Luego escribe el vinculo de la imágen entre paréntesis ().
-![Imagen demostrativa](https://i.pinimg.com/736x/ef/71/90/ef719006ad6e536b6883a9e98263f146.jpg)
+<center>![Imagen demostrativa](https://i.pinimg.com/736x/ef/71/90/ef719006ad6e536b6883a9e98263f146.jpg)</center>
 
 GitHub admite la inserción de imágenes en incidencias, solicitudes de incorporación de cambios, debates, comentarios y archivos .md. Puedes mostrar una imagen desde tu repositorio, agregar un enlace a una imagen en línea o cargar una imagen. Para obtener más información, consulte "Carga de recursos".
