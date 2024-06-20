@@ -129,4 +129,10 @@ GitHub admite la inserción de imágenes en incidencias, solicitudes de incorpor
 Si la documentacion lo requiere podemos presentar informacion en formato de tablas con filas y columnas,
 para maquetarlas podemos utilizar el caracter | para delifitar las columas y - para delimitar
 
-**EJEMPLO**
+EJEMPLO:
+
+| Encabezado 1 | Encabezado2 | Encabezado 3 | Encabezado4|
+|--------------|-------------|--------------|------------|
+|Fila 1 Celda 1|Fila 1 Celda 2|Fila 1 Celda 3|Fila 1 Celda 4|
+|Fila 1 Celda 2|Fila 2 Celda 2|Fila 2 Celda 3|Fila 2 Celda 4|
+| Fila 1 Celda3|Fila 3 Celda 2|Fila 3 Celda 3|Fila 3 Celda 4|
