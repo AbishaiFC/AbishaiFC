@@ -123,3 +123,10 @@ Puede mostrar una imágen agregando ! y ajustar el texto alternativo en [ ]. El 
 ![Imagen demostrativa](https://i.pinimg.com/736x/ef/71/90/ef719006ad6e536b6883a9e98263f146.jpg)
 
 GitHub admite la inserción de imágenes en incidencias, solicitudes de incorporación de cambios, debates, comentarios y archivos .md. Puedes mostrar una imagen desde tu repositorio, agregar un enlace a una imagen en línea o cargar una imagen. Para obtener más información, consulte "Carga de recursos".
+
+#### 9.Tablas (Tabs)
+
+Si la documentacion lo requiere podemos presentar informacion en formato de tablas con filas y columnas,
+para maquetarlas podemos utilizar el caracter | para delifitar las columas y - para delimitar
+
+**EJEMPLO**
