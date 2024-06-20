@@ -149,3 +149,6 @@ EJEMPLO:
 |              |Fila 4 Celda 2|Fila 4 Celda 3|Fila 4 Celda 4|
 |              |Fila 5 Celda 2|Fila 5 Celda 3|Fila 5 Celda 4|
 | Fila 6 Celda5|Fila 6 Celda 2|Fila 6 Celda 3|Fila 6 Celda 4|
+
+Dado que en el ejemplo pasado usando solo markdown no se puede realizar la fusión de filas debemos utilizar el estandar de HTML, usando los tags: \<th> para los encabezados, \<tr> para las filas y <td> para las celdas, y en  ellos utilizar la propiedad de  *colspan* y *rowspan*
+
