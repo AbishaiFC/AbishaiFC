@@ -136,3 +136,5 @@ EJEMPLO:
 |Fila 1 Celda 1|Fila 1 Celda 2|Fila 1 Celda 3|Fila 1 Celda 4|
 |Fila 1 Celda 2|Fila 2 Celda 2|Fila 2 Celda 3|Fila 2 Celda 4|
 | Fila 1 Celda3|Fila 3 Celda 2|Fila 3 Celda 3|Fila 3 Celda 4|
+
+En caso de necesitar la fusión de celdas en columnas usaremos la propiedad *colspan* del tag \<td> y en el caso de necesitar la fusión de filas utilizaremos la propiedad *rowspan* .
