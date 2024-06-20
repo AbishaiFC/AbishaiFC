@@ -135,6 +135,17 @@ EJEMPLO:
 |--------------|-------------|--------------|------------|
 |Fila 1 Celda 1|Fila 1 Celda 2|Fila 1 Celda 3|Fila 1 Celda 4|
 |Fila 1 Celda 2|Fila 2 Celda 2|Fila 2 Celda 3|Fila 2 Celda 4|
-| Fila 1 Celda3|Fila 3 Celda 2|Fila 3 Celda 3|Fila 3 Celda 4|
+| Fila 1 Celda 3|Fila 3 Celda 2|Fila 3 Celda 3|Fila 3 Celda 4|
 
 En caso de necesitar la fusión de celdas en columnas usaremos la propiedad *colspan* del tag \<td> y en el caso de necesitar la fusión de filas utilizaremos la propiedad *rowspan* .
+
+EJEMPLO:
+
+| Encabezado 1 | Encabezado2 | Encabezado 3 | Encabezado4|
+|--------------|-------------|--------------|------------|
+|Fila 1 Celda 1|Fila 1 Celda 2|Fila 1 Celda 3|Fila 1 Celda 4|
+|Fila 2 Celda 2<td colspan=2>Fila 2 Celda 2 | Fila 2 Celda 4|              
+| Fila 3 Celda3|Fila 3 Celda 2|Fila 3 Celda 3|Fila 3 Celda 4|
+|              |Fila 4 Celda 2|Fila 4 Celda 3|Fila 4 Celda 4|
+|              |Fila 5 Celda 2|Fila 5 Celda 3|Fila 5 Celda 4|
+| Fila 6 Celda5|Fila 6 Celda 2|Fila 6 Celda 3|Fila 6 Celda 4|
